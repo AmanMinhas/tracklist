@@ -1,0 +1,8 @@
+.genre {
+	border: 1px solid black;
+	padding: 10px;	
+}
+
+.pagination, .form-edit-genre input  {
+	width: 100%;
+}
